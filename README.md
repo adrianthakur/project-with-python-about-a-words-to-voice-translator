@@ -72,3 +72,5 @@ else:
     webbrowser.open(filename)
 
     print("\nThank you for using EchoLang!")
+
+ <img width="1844" height="815" alt="image" src="https://github.com/user-attachments/assets/47c238e4-38ba-4976-b251-774e6a837159" />
